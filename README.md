@@ -1,6 +1,4 @@
-<h3 align="center">I love frogs frog
-<i class='fas fa-frog' style='color: white'></i>
-</h3>
+<h3 align="center">I love frogs frogs 🐸</h3>
 
 <h3 align="left">reach me out at:</h3>
 <p align="left">
